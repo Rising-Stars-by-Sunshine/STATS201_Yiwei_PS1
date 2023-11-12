@@ -35,7 +35,7 @@ Web search data contains timely information that reflects economic trends and co
 
 ### 2. Research Question:
 
-- The primary research question of this study is: *Can machine learning methods effectively predict gold price changes based on historical data, macroeconomic indicators, and market sentiment?*
+- The primary research question of this study is: *Can machine learning methods effectively predict gold price changes based on CPI*
 
 ### 3. Application Scenarios:
 
@@ -43,7 +43,7 @@ Web search data contains timely information that reflects economic trends and co
 
 ### 4. Methodology:
 
-- The research will employ a comprehensive methodology encompassing data collection, feature engineering, model selection, training, and evaluation. Historical gold price data, macroeconomic indicators (such as inflation rates, interest rates, and GDP growth), and sentiment analysis of financial news will be used as input features. Various machine learning algorithms, including but not limited to linear regression, support vector machines, and deep learning models, will be applied to develop predictive models. The performance of these models will be assessed using metrics such as mean absolute error, root mean square error, and precision-recall curves.
+- The research will employ a comprehensive methodology encompassing data collection, feature engineering, model selection, training, and evaluation. Historical gold price data, macroeconomic indicators (such as CPI), and sentiment analysis of financial news will be used as input features. Various machine learning algorithms, including but not limited to linear regression, support vector machines, and deep learning models, will be applied to develop predictive models. The performance of these models will be assessed using metrics such as mean absolute error, root mean square error, and precision-recall curves.
 
 ### 5. Results:
 
