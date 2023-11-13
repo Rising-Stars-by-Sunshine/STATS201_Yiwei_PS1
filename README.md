@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Self Introduction](#self-introduction)
 2. [Literature](#literature)
-   1. [Part I](#)
+   1. [Part I](https://github.com/Rising-Stars-by-Sunshine/STATS201_Yiwei_PS1/tree/main/Literature#part-i)
       - [Background](#introduction)
       - [Research Question](#ResearchQuestion)
       - [Application Scenario](#Application-Scenario)
