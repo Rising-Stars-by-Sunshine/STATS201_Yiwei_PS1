@@ -88,5 +88,5 @@ Web search data contains timely information that reflects economic trends and co
 }
 ```
 # Grammarly
-- ![](Stats4.PNG)
+- ![](stats4.png)
 
